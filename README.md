@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 
 Today is the day i learned github
 It includes steps for github
+
+The readme file is added by one line
